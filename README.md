@@ -5,7 +5,7 @@ Interesting graphics done using turtle module of python. (Inspired and Original)
 ![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/Molecule.gif)
 
 ## Triangles Reversed periodically
-![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/triangle.gif)
+![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/Triangle.gif)
 
 ## Trippy Squares
 ![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/trippySquare.gif)
@@ -16,5 +16,5 @@ Interesting graphics done using turtle module of python. (Inspired and Original)
 ## Square Animation
 ![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/squareAnim.gif)
 
-## #D Figure
-![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/blackhole.png)
+## 3D Figure
+![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/blacHhole.png)
