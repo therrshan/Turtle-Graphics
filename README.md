@@ -17,4 +17,4 @@ Interesting graphics done using turtle module of python. (Inspired and Original)
 ![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/squareAnim.gif)
 
 ## 3D Figure
-![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/blacHhole.png)
+![alt text](https://github.com/therrshan/Turtle-Graphics/blob/master/outputs/blackHole.png)
